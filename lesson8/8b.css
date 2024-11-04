@@ -1,0 +1,7 @@
+.gesture {
+  display : inline-block;
+  width : 200px;
+}
+.yes-button,.no-button,.gesture {
+  vertical-align : middle;
+}

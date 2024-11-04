@@ -1,0 +1,19 @@
+.google-image {
+  width : 1000px;
+  margin-left : 600px;
+  display : block;
+}
+.search-bar {
+  margin-top : 20px;
+  display : block;
+  width : 1900px;
+  padding-left : 60px;
+  padding-top : 40px;
+  padding-bottom : 40px;
+  font-size : 40px;
+  border-radius : 80px;
+  font-weight : bold;
+  border:none;
+  box-shadow : 15px 25px 15px rgba(0,0,0,0.25);
+  margin-left : 50px;
+}

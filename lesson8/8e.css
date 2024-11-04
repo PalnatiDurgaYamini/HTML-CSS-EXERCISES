@@ -1,0 +1,39 @@
+p {
+  margin-top : 20px;
+  font-weight : 100px;
+  font-size : 36px;
+  font-family : Arial;
+  margin-bottom : 28px;
+}
+.destination,.source {
+  display : block;
+  padding-left : 25px;
+  padding-top : 14px;
+  padding-bottom : 14px;
+  width : 340px;
+  background-color : rgb(241, 240, 240);
+  color : black;
+  border : solid;
+  border-color:white;
+}
+.source {
+  margin-bottom : 8px;
+}
+.destination {
+  margin-bottom : 30px;
+}
+.request-button ,.schedule-button{
+  color : white;
+  background-color : black;
+  border : none;
+  padding : 16px 20px 16px 20px;
+  font-size : 15px;
+}
+.schedule-button {
+  margin-left : 16px;
+  background-color : rgb(241, 240, 240);
+  color : black;
+  width : 180px;
+  font-size : 16px;
+  padding-left : 0px;
+}

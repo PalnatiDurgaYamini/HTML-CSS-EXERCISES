@@ -1,0 +1,32 @@
+.first-name, .last-name,.email {
+  margin-left : 10px;
+  width : 100px;
+  padding-top : 10px;
+  padding-bottom : 10px;
+  padding-left : 10px;
+  font-weight : bold;
+  border-radius : 8px;
+  border : solid;
+  border-width : 1px;
+  border-color : rgb(35, 35, 35);
+}
+.email {
+  width : 230px;
+  margin-top : 20px;
+  display : block;
+  margin-bottom : 16px;
+}
+.sign-up-button {
+  color : white;
+  background-color : blue;
+  border : none;
+  border-radius : 8px;
+  padding-left : 50px;
+  padding-right : 50px;
+  padding-top : 20px;
+  padding-bottom : 20px;
+  margin-left : 10px;
+  width : 245px;
+  font-weight : bold;
+  
+}
