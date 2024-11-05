@@ -1,0 +1,24 @@
+.paragraph-1 {
+  font-family : Arial;
+  font-size : 20px;
+  font-weight : bold;
+  display : inline-block;
+  color : white;
+  margin-left : 20px;
+  margin-bottom : 10px;
+}
+.paragraph-2 {
+  width : 355px;
+  color : rgb(183, 179, 179);
+  font-family : Arial;
+  display : inline-block;
+  margin-left : 20px;
+  line-height : 15px;
+  margin-top : 0px;
+  margin-bottom : 20px;
+}
+div {
+  background-color : black;
+  display : inline-block;
+  width : 400px;
+}

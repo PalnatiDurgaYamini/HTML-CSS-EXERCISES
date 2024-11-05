@@ -1,0 +1,46 @@
+.lotus-image {
+  margin-top : 10px;
+  margin-left : 6px;
+  width : 80px;
+  height : 80px;
+  border-radius : 50px;
+  object-fit : cover;
+  margin-right : 6px;
+  vertical-align : middle;
+}
+.text-box {
+  display : inline-block;
+  text-align :center;
+  margin-right : 104px;
+  color : gray;
+  vertical-align : middle;
+  font-family : Arial;
+  border : none;
+  font-size : 16px;
+}
+.tweet-button {
+  color : white;
+  background-color : blue;
+  vertical-align : middle;
+  padding-top : 15px;
+  padding-bottom : 15px;
+  padding-left : 17px;
+  padding-right : 17px;
+  border : solid;
+  border-radius : 20px;
+  font-weight : bold;
+  font-size : 15px;
+  width : 70px;
+}
+.container {
+  width : 500px;
+  border-radius : 8px;
+  margin-left : 5px;
+  margin-top : 20px;
+  padding-top : 20px;
+  padding-bottom : 20px;
+  padding-left : 20px;
+  padding-bottom : 20px;
+  box-shadow : 0 0 6px rgba(0,0,0,0.3);
+
+}
